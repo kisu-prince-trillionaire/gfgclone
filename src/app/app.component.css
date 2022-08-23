@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.mid1{
+    display: flex;
+}
+
+.col-md-4{
+    padding: 10px;
+    margin: 20px;
+}
+
+.text{
+    padding: 10px;
+    margin: 10px;
+    box-sizing: content-box;
+    overflow: visible;
+}
+
+.media-item{
+    padding: 20px;
+    margin: 15px;
+}
+
+.video-cards{
+    display: flex;
+}
+
+.contain col{
+    padding: 10px;
+    margin: 20px;
+}
